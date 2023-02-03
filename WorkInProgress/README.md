@@ -35,7 +35,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando a API do Dio Bank Com Node](https://web.dio.me/lab/criando-a-api-do-dio-bank-com-node/learning/b58b8ca5-4f94-4a03-b953-0e1809aa8f9f)[Entendendo o Desafio](https://web.dio.me/lab/criando-a-api-do-dio-bank-com-node/learning/8c8e546d-5bcd-449d-9463-68d1052c56e7)
+- [Criando a API do Dio Bank Com Node](https://web.dio.me/lab/criando-a-api-do-dio-bank-com-node/learning/b58b8ca5-4f94-4a03-b953-0e1809aa8f9f)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-a-api-do-dio-bank-com-node/learning/8c8e546d-5bcd-449d-9463-68d1052c56e7)
 
 
 
